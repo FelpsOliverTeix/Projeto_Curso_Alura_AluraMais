@@ -1,4 +1,4 @@
-# Projetos_Curso_Alura
+# Projeto_Alura+
 
 Projeto criado realizando o curso: "HTML e CSS: Praticando HTML/CSS" da Alura.
 
