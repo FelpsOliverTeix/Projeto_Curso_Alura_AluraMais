@@ -1,7 +1,7 @@
 # Projeto_Alura+
 
 link de visualização:
-https://felpsoliverteix.github.io/Projetos_Curso_Alura/
+https://felpsoliverteix.github.io/Projetos_Curso_Alura_Barbearia/
 
 Projeto criado realizando o curso: "HTML e CSS: Praticando HTML/CSS" da Alura.
 O site criado, consiste em uma apresentaçao do curso Alura+, mostrando como se inscrever, e apresentando um pouco sobre a plataforma de ensino digital.
